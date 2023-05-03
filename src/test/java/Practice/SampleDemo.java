@@ -7,5 +7,6 @@ public class SampleDemo {
 public void sample() {
 	
 	System.out.println("SAMPLE");
+	System.out.println("branch");
 }
 }
